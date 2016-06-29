@@ -1,0 +1,8 @@
+page.includeJS.swfobject = EXT:websockets/Resources/Public/JavaScript/swfobject.js
+page.includeJS.web_socket = EXT:websockets/Resources/Public/JavaScript/web_socket.js
+page.headerData.99 = TEXT
+page.headerData.99.value (
+	<script type="text/javascript">
+	WEB_SOCKET_SWF_LOCATION = "/typo3conf/ext/websockets/Resources/Public/Flash/WebSocketMain.swf";
+	</script>
+)
